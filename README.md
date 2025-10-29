@@ -41,5 +41,6 @@ Power BI, SQL Server, Spring Boot, Azure DevOps, Google Cloud Storage, Microsoft
 - /scripts — sample SQL for demo data or KPI computation
 
 ## Screenshots
-
+RecruitEdge Process Flow  
+![RecruitEdge Process Flow](assets/process-flow.png)
 
