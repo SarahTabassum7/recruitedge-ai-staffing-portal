@@ -28,18 +28,6 @@ Manual screening and fragmented workflows slow down hiring, create blind spots f
 ## Tech Stack
 Power BI, SQL Server, Spring Boot, Azure DevOps, Google Cloud Storage, Microsoft 365, Lucidchart, MS Visio, Jira
 
-## How To Run (if applicable)
-- Backend services: start Spring Boot services as documented in /docs.
-- Analytics: open `.pbix` files in Power BI Desktop; refresh against sample or parameterized connections.
-- Diagrams: open `.drawio` / `.vsdx` files in the /design folder.
-
-## Repository Structure (suggested)
-- /docs — BRD/FRD/RTM excerpts, UAT plan (redact confidential items)
-- /design — process flows, architecture diagrams (PNG/PDF/Draw.io/Visio)
-- /dashboards — Power BI files or screenshots (PNG)
-- /api — interface specs and example payloads (JSON)
-- /scripts — sample SQL for demo data or KPI computation
-
 ## Screenshots
 RecruitEdge Process Flow  
 ![RecruitEdge Process Flow](assets/process-flow.png)
