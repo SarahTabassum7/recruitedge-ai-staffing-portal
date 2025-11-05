@@ -28,8 +28,4 @@ Manual screening and fragmented workflows slow down hiring, create blind spots f
 ## Tech Stack
 Power BI, SQL Server, Spring Boot, Azure DevOps, Google Cloud Storage, Microsoft 365, Lucidchart, MS Visio, Jira
 
-## Screenshots
-RecruitEdge Process Flow  
-![RecruitEdge Process Flow](assets/process-flow.png)
-
 [Back to my GitHub profile](https://github.com/SarahTabassum7)
